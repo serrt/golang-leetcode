@@ -16,7 +16,7 @@ func main() {
 
 	a2, b2 := "1010", "1011"
 
-	fmt.Println("Example 1: ", a2, b2, twoSum(a2, b2))
+	fmt.Println("Example 2: ", a2, b2, twoSum(a2, b2))
 }
 
 func twoSum(str1 string, str2 string) string {
